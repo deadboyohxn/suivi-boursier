@@ -6,4 +6,7 @@ dependencies:
   - pip
   - pip:
     - yfinance==1.7.0
+    - psycopg2-binary==2.9.13
+    - sqlalchemy==2.1.5
+    - python-dotenv==1.2.4
 
