@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 env_full.yml
+.env 
+expLore.py
